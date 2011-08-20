@@ -1,9 +1,3 @@
-A Brief Introduction to Forth
-This description is copyright 1993 by ACM, and was developed for the Second History of Programming Languages Conference (HOPL-II), Boston MA.
-Philip J. Koopman, Jr.
-koopman@cmu.edu
-
-
 Forth is both an extensible language and an interactive program development methodology. Originally developed for small embedded control mini- and micro-computers, Forth seems to have been implemented on every major processor manufactured. It has been used in a wide variety of applications, including spreadsheets, expert systems, multi-user databases, and distributed real time control systems.
 
 Forth is an extensible language and REPL program development methodology.
